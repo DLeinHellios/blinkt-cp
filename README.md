@@ -9,8 +9,8 @@ This is a simple Tkinter gui for experimenting with colors on the Pimoroni Blink
 - Works great with ssh -X/-Y (Only tested on Linux client)
 
 ## Potential Improvements
-- Export current pixel values asqweqweqweq Python code
-- Display short animations
+- Export current pixel values as Python code
+- Display short animations on Blinkt
 
 ## Screenshots
 Full-sized GUI:
