@@ -1,6 +1,6 @@
-﻿# blinkt-cp
+# blinkt-cp
 
-This is a simple Tkinter gui for experimenting with colors on the Pimoroni Blinkt! hat for the Raspberry Pi. Requires Python 3, Tkinter, and the official Blinkt library (https://github.com/pimoroni/blinkt). Should run on stock full Raspbian Stretch install.
+This is a simple Tkinter gui for experimenting with colors on the Pimoroni Blinkt! hat for the Raspberry Pi. Requires Python 3, Tkinter, and the official Blinkt library (https://github.com/pimoroni/blinkt).
 
 ## Features
 - RGB + Brightness sliders
@@ -15,8 +15,8 @@ This is a simple Tkinter gui for experimenting with colors on the Pimoroni Blink
 ## Screenshots
 Full-sized GUI:
 
-![blinkt-cp](https://dleinhellios.com/files/github/blinkt-cp.jpg)
+![blinkt-cp](screenshots/a.png?raw=true)
 
 Mini GUI:
 
-![blinkt-cp-mini](https://dleinhellios.com/files/github/blinkt-cp-mini.jpg)
+![blinkt-cp-mini](screenshots/b.png?raw=true)
